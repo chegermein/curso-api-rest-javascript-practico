@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de API rest",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chegermein/curso-api-rest-javascript-practico.git"
+  },
+  "author": "@chegermein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chegermein/curso-api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/chegermein/curso-api-rest-javascript-practico#readme"
+}
